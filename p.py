@@ -1,0 +1,1 @@
+print('Hello AUTHORITY,\n\nGarbage Found!!!\nYou are requested to clean the "Garbage". \n\nBest Wishes \nGarbage Detection Team.\n')

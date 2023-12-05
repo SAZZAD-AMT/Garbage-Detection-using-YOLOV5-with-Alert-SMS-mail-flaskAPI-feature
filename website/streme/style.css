@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.video-container {
+    width: 640px;
+    height: 480px;
+    margin: 0 auto;
+}
+
+#video {
+    width: 100%;
+    height: auto;
+}
