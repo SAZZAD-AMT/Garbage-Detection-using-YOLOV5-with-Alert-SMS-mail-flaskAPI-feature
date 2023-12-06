@@ -12,9 +12,9 @@
 </div>
 
 <div style="display: flex; height: 100vh; align="center"">
-  <img src="img/7 (1).jpg" alt="Description of the image" width="400" height="300">
-  <img src="img/7 (1).png" alt="Description of the image" width="400" height="300">
-  <img src="img/7 (2).png" alt="Description of the image" width="400" height="300">
+  <img src="img/7 (1).jpg" alt="Description of the image" width="300" height="300">
+  <img src="img/7 (1).png" alt="Description of the image" width="300" height="300">
+  <img src="img/7 (2).png" alt="Description of the image" width="300" height="300">
 </div>
 <div align="center">
   <img src="img/7 (3).png" > 
