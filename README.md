@@ -11,9 +11,9 @@
 </div>
 
 <div style="display: flex; height: 100vh; align="center"">
-  <img src="img/7 (1).jpg" alt="Description of the image" width="350" height="290">
-  <img src="img/7 (1).png" alt="Description of the image" width="350" height="290">
-  <img src="img/7 (2).png" alt="Description of the image" width="350" height="290">
+  <img src="img/7 (1).jpg" alt="Description of the image" width="350" height="270">
+  <img src="img/7 (1).png" alt="Description of the image" width="350" height="270">
+  <img src="img/7 (2).png" alt="Description of the image" width="350" height="270">
 </div>
 <div align="center">
   <img src="img/7 (3).png" > 
