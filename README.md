@@ -11,9 +11,13 @@
   <img src="img/7 (3).png" > 
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; align="center"">
+<div style="display: flex; justify-content: center; height: 100vh; align="center"">
   <img src="img/7 (1).jpg" alt="Description of the image" width="400" height="300">
   <img src="img/7 (1).png" alt="Description of the image" width="400" height="300">
   <img src="img/7 (2).png" alt="Description of the image" width="400" height="300">
 </div>
+<div align="center">
+  <img src="img/7 (3).png" > 
+</div>
+
 
