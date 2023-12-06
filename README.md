@@ -7,10 +7,10 @@
   <img src="img/4.png" >
   <img src="img/5.png" >
   <img src="img/6.png" >
+  <img src="img/7 (1).jpg" >
   <img src="img/7 (1).png" >
   <img src="img/7 (2).png" >
   <img src="img/7 (3).png" >
-  <img src="img/7 (4).png" >
   
   
 </div>
